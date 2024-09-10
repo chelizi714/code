@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../C"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"valarray": "cpp",
+			"vector": "cpp",
+			"cstdio": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
